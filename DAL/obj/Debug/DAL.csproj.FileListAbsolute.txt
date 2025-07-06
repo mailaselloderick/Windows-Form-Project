@@ -1,0 +1,6 @@
+C:\Users\smmad\source\repos\PROJECT_ONT23\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\smmad\source\repos\PROJECT_ONT23\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\smmad\source\repos\PROJECT_ONT23\DAL\bin\Debug\DAL.dll
+C:\Users\smmad\source\repos\PROJECT_ONT23\DAL\bin\Debug\DAL.pdb
+C:\Users\smmad\source\repos\PROJECT_ONT23\DAL\obj\Debug\DAL.dll
+C:\Users\smmad\source\repos\PROJECT_ONT23\DAL\obj\Debug\DAL.pdb
